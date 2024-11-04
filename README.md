@@ -18,5 +18,5 @@ Graphics project with keypress drawing controls with the ability to save.
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custon buttons and UI.
-![Running App]()
+![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-11-04%20at%2012.07.41%20PM.png?raw=true)
 [Source Code]()
