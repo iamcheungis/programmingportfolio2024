@@ -13,7 +13,7 @@
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save.
 
-![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/line-000673.png)
+![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/line-000673.png?raw=true)
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/blob/main/scr/term1/Etch_A_Sketch.pde)
 
