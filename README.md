@@ -28,6 +28,7 @@ Object oriented graphical calculator with custon buttons and UI.
 
 ### SpaceGame
 Description: OOP solution 
+
 ![Gameplay](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/spacegame.png)
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/SpaceGame)
