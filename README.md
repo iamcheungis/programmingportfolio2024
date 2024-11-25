@@ -27,8 +27,8 @@ Object oriented graphical calculator with custon buttons and UI.
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/Calculator)
 
 ### SpaceGame
-Description: OOP solution 
+Description: OOP solution for a collision based space themed game.
 
-![Gameplay](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/spacegame.png)
+![Gameplay](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/SpaceGame)
