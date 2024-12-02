@@ -31,4 +31,4 @@ Description: OOP solution for a collision based space themed game.
 
 ![Gameplay](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/spacegame.png?raw=true)
 
-[Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/SpaceGame)
+[Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/My%20SpaceGame)
