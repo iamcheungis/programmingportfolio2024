@@ -28,6 +28,7 @@ A program that converts a number grade to a letter grade.
 
 ![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.23.04%20PM.png)
 
+[Source Code](https://github.com/iamcheungis/programmingportfolio2024/blob/main/scr/term1/Grade.pde)
 
 ## Term 2
 ### Calculator
