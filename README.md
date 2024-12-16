@@ -9,6 +9,10 @@
   
  ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.17.08%20PM.png)
 
+## Certifications
+
+
+
 
 ## Term 1
 ### Etch-A-Sketch
