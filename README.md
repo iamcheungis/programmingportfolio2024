@@ -19,6 +19,8 @@ Graphics project with keypress drawing controls with the ability to save.
 ### Ball Bounce
 Simulates a ball bouncing around.
 
+![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.07.02%20PM.png)
+
 
 
   
