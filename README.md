@@ -16,6 +16,11 @@ Graphics project with keypress drawing controls with the ability to save.
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/blob/main/scr/term1/Etch_A_Sketch.pde)
 
+### Ball Bounce
+Simulates a ball bouncing around.
+
+
+
   
 ## Term 2
 ### Calculator
