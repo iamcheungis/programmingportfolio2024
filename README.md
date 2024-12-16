@@ -23,7 +23,10 @@ Simulates a ball bouncing around.
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/blob/main/scr/term1/BallBounce.pde)
 
+### Grade Converter
+A program that converts a number grade to a letter grade. 
 
+![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.23.04%20PM.png)
 
 
 ## Term 2
