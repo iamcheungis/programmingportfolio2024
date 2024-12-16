@@ -7,12 +7,12 @@
 * I love skiing at Snowbird Ski Resort
 * I love playing hockey
   
- ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.17.08%20PM.png)
+ ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.17.08%20PM.png?raw=true)
 
 ## Certifications
 Computer Programming 1
 
-![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screen%20Shot%202024-12-16%20at%203.34.48%20PM.png)
+![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screen%20Shot%202024-12-16%20at%203.34.48%20PM.png?raw=true)
 
 
 
