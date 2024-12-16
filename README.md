@@ -1,4 +1,6 @@
-# Programming 1 Portfolio | Isaac Cheung | Email: isaac3b1b100@gmail.com
+# Programming 1 Portfolio 2024-2025 | Isaac Cheung 
+## Email: isaac3b1b100@gmail.com
+
 * Current High School: Skyline High School
 * Projected graduation in 2028
 * Typing at around 120WPM
