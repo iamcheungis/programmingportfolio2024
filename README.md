@@ -5,7 +5,7 @@
 * I love skiing at Snowbird Ski Resort
 * I love playing hockey
   
- ![alt text](https://snowbrains.com/wp-content/uploads/2024/05/Snowbird-tram-1-1.jpg)
+ ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.17.08%20PM.png)
 
 
 ## Term 1
