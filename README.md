@@ -52,3 +52,12 @@ Description: OOP solution for a collision based space themed game.
 ![Gameplay](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screen%20Shot%202024-12-16%20at%205.03.17%20PM.png?raw=true)
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/term2/My%20SpaceGame)
+
+
+## Term 3
+### Shape Tester
+Interactive program that asks users to choose from list of shapes to find volume and surface area.
+
+![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202025-02-19%20at%2011.51.35%20AM.png?raw=true)
+
+[Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/ShapeTester.java%20(2)raw=true)
