@@ -83,6 +83,6 @@ You play as main character Sal who relies on blood to live. To maintain blood in
 
 I was a concept artist, created enemy designs, programmed the engine and GUI, made bloodbar.png, and contributed in helping out with the testing and running of the code and updating and organizing the README. 
 
-[View the Sanguinize Repository](https://github.com/fugu2000/sanguinize)
+View the [Sanguinize Repository](https://github.com/fugu2000/sanguinize) to see game play, source code, concept ideas/designs, and contributions of each team member. 
 
 
