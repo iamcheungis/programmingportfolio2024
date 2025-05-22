@@ -14,7 +14,9 @@ Computer Programming 1
 
 ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screen%20Shot%202024-12-16%20at%203.34.48%20PM.png?raw=true)
 
+Computer Programming 2 Java
 
+![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screen%20Shot%202025-05-21%20at%206.06.15%20PM.png?raw=true)
 
 
 
