@@ -66,3 +66,23 @@ Interactive program that asks users to choose from list of shapes to find volume
 ![Running App](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202025-02-19%20at%2011.51.35%20AM.png?raw=true)
 
 [Source Code](https://github.com/iamcheungis/programmingportfolio2024/tree/main/scr/ShapeTester.java%20(2))
+
+
+## Group Project
+### Sanguinize 
+OOP Arcade Hack and Slash
+You play as main character Sal who relies on blood to live. To maintain blood in Sal's blood bar, you will need to defeat waves of enemies. As your blood increases, you will unlock a special attack. 
+
+**Contributors:**
+* Isaac Cheung
+* Frankie Chia
+* Tiger Yang
+* Marcus Nishikawa
+* Margot Zollinger
+* Jerry Yang
+
+I was a concept artist, created enemy designs, programmed the engine and GUI, made bloodbar.png, and contributed in helping out with the testing and running of the code and updating and organizing the README. 
+
+[View the Sanguinize Repository](https://github.com/fugu2000/sanguinize)
+
+
