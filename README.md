@@ -7,7 +7,7 @@
 * I love skiing at Snowbird Ski Resort
 * I love playing hockey
   
- ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/Screenshot%202024-12-16%20at%2012.17.08%20PM.png?raw=true)
+ ![alt text](https://github.com/iamcheungis/programmingportfolio2024/blob/main/images/420-4208367_400-x-400-5-black-stick-figure-skiing.png?raw=true)
 
 ## Certifications
 
