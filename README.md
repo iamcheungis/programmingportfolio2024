@@ -71,6 +71,7 @@ Interactive program that asks users to choose from list of shapes to find volume
 ## Group Project
 ### Sanguinize 
 OOP Arcade Hack and Slash
+
 You play as main character Sal who relies on blood to live. To maintain blood in Sal's blood bar, you will need to defeat waves of enemies. As your blood increases, you will unlock a special attack. 
 
 **Contributors:**
